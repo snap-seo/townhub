@@ -23,6 +23,13 @@ In the functions.php I have added a snippet of code allowing you to hide subscri
 
 Remove the comments /* and */ from the file and enter your the woocommerce product ID of the subscriptions.
 
+##WooCommerce Orders
+
+The original orders page from Townhub has many bugs. This allowed any user with any roles to see all the orders on the site regardless of permissions.
+This has since been fixed.
+
+I also updated the file to have the wooorders.php page show up in the sidebar on the users main dashboard.
+
 
 
 <footer>
