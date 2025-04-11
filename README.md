@@ -7,9 +7,9 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# GitHub Pages
+# Town Hub Child Theme
 
-_Create a site or blog from your GitHub repositories with GitHub Pages._
+This is a Child Theme we used for a couple of clients. It includes some overrides to fix some bugs with TownHub.
 
 </header>
 
