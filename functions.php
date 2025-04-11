@@ -23,7 +23,7 @@ add_action( 'wp_enqueue_scripts', 'townhub_child_enqueue_styles' );
 /*
 ////////////Hide specific products from the shop page.\\\\\\\\\\\\\\\
 Some users will want to hide their subscriptions from the rest of the WooCommerce Store.
-*/
+
 
 function hide_specific_products_from_shop( $query ) {
     // Only run on the front end, main query, and the Shop page.
@@ -37,3 +37,5 @@ function hide_specific_products_from_shop( $query ) {
     }
 }
 add_action( 'pre_get_posts', 'hide_specific_products_from_shop' );
+
+*/
